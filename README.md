@@ -11,3 +11,6 @@ nebula8clair's favorite ice cream flavors:
 - Meal worm
 - Shrimp flakes
 - Sunflower seed
+
+clair's favorite ice cream flavors:
+- cinammon
